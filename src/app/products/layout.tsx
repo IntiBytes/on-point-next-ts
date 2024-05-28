@@ -1,3 +1,4 @@
+"use client";
 import CustomNavbar from "@/components/navbar/custom-navbar";
 import CustomSidebar from "@/components/sidebar/custom-sidebar";
 
